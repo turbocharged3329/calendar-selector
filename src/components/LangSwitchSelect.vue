@@ -19,4 +19,8 @@ function changeLocale(e) {
 }
 </script>
 
-<style scoped></style>
+<style scoped>
+select {
+  cursor: pointer;
+}
+</style>

@@ -1,4 +1,7 @@
 {
+  "global": {
+    "selected_date": "Selected date"
+  },
   "months": {
     "january": "January",
     "february": "February",
@@ -12,5 +15,14 @@
     "october": "October",
     "november": "November",
     "december": "December"
+  },
+  "weekdays": {
+    "monday": "Mon",
+    "tuesday": "Tue",
+    "wednesday": "Wed",
+    "thursday": "Thu",
+    "friday": "Fri",
+    "saturday": "Sat",
+    "sunday": "Sun"
   }
 }

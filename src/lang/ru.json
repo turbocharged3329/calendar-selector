@@ -1,4 +1,7 @@
 {
+  "global": {
+    "selected_date": "Выбранная дата"
+  },
   "months": {
     "january": "Январь",
     "february": "Февраль",
@@ -12,5 +15,14 @@
     "october": "Октябрь",
     "november": "Ноябрь",
     "december": "Декабрь"
+  },
+  "weekdays": {
+    "monday": "Пн",
+    "tuesday": "Вт",
+    "wednesday": "Ср",
+    "thursday": "Чт",
+    "friday": "Пт",
+    "saturday": "Сб",
+    "sunday": "Вс"
   }
 }
